@@ -1,0 +1,7 @@
+{
+    "BOT_TOKEN": "YOUR BOT TOKEN",
+    "BOT_NAME": "YOUR BOT NAME",
+    "BOT_PREFIX": "YOUR BOT PREFIX",
+    "UsePresence": true,
+    "PresenceMessage": ""
+}
